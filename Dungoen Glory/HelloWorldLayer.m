@@ -7,7 +7,7 @@
 //
 
 
-// Import the interfaces
+// Import the interfaces and random stuff
 #import "HelloWorldLayer.h"
 
 // Needed to obtain the Navigation Controller
