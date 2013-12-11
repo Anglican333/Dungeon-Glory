@@ -142,7 +142,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D03CC13C185812800061AAE9 /* Dungoen Glory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dungoen Glory.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D03CC13C185812800061AAE9 /* Dungeon Glory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dungeon Glory.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D03CC13F185812800061AAE9 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		D03CC141185812800061AAE9 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		D03CC143185812800061AAE9 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
@@ -454,7 +454,7 @@
 		D03CC13D185812800061AAE9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D03CC13C185812800061AAE9 /* Dungoen Glory.app */,
+				D03CC13C185812800061AAE9 /* Dungeon Glory.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -873,9 +873,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D03CC13B185812800061AAE9 /* Dungoen Glory */ = {
+		D03CC13B185812800061AAE9 /* Dungeon Glory */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D03CC2EA185812830061AAE9 /* Build configuration list for PBXNativeTarget "Dungoen Glory" */;
+			buildConfigurationList = D03CC2EA185812830061AAE9 /* Build configuration list for PBXNativeTarget "Dungeon Glory" */;
 			buildPhases = (
 				D03CC138185812800061AAE9 /* Sources */,
 				D03CC139185812800061AAE9 /* Frameworks */,
@@ -885,9 +885,9 @@
 			);
 			dependencies = (
 			);
-			name = "Dungoen Glory";
+			name = "Dungeon Glory";
 			productName = "Dungoen Glory";
-			productReference = D03CC13C185812800061AAE9 /* Dungoen Glory.app */;
+			productReference = D03CC13C185812800061AAE9 /* Dungeon Glory.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -899,7 +899,7 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Abimon Inc";
 			};
-			buildConfigurationList = D03CC137185812800061AAE9 /* Build configuration list for PBXProject "Dungoen Glory" */;
+			buildConfigurationList = D03CC137185812800061AAE9 /* Build configuration list for PBXProject "Dungeon Glory" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -911,7 +911,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D03CC13B185812800061AAE9 /* Dungoen Glory */,
+				D03CC13B185812800061AAE9 /* Dungeon Glory */,
 			);
 		};
 /* End PBXProject section */
@@ -1115,7 +1115,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Dungeon Glory";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1134,7 +1134,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Dungeon Glory";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -1143,7 +1143,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D03CC137185812800061AAE9 /* Build configuration list for PBXProject "Dungoen Glory" */ = {
+		D03CC137185812800061AAE9 /* Build configuration list for PBXProject "Dungeon Glory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D03CC2E8185812830061AAE9 /* Debug */,
@@ -1152,7 +1152,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D03CC2EA185812830061AAE9 /* Build configuration list for PBXNativeTarget "Dungoen Glory" */ = {
+		D03CC2EA185812830061AAE9 /* Build configuration list for PBXNativeTarget "Dungeon Glory" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D03CC2EB185812830061AAE9 /* Debug */,
